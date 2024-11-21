@@ -2,7 +2,7 @@
 ImgSteno is a program written in Rust that can hide text in Images and get it back out.
 
 ## Installation
-Download the latest release from the [releases page](
+Download the latest release from the [releases page](https://github.com/SpeedyGo55/ImgSteno/releases/latest)
 
 ## Usage
 To hide text in an image:
